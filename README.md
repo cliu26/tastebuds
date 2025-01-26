@@ -1,50 +1,20 @@
-# Welcome to your Expo app 👋
+## Inspiration
+We were inspired by our love of sharing our everyday meals with friends and family. Having a record also encourages healthy eating habits and reflection.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## What it does
+Our app allows users to take a photo of what they are eating and view it later through a calendar. This allows users to look back and reflect on what food they've eaten, much like a food diary! There is also a social aspect where users can see what others are eating as well, and react to them. Not only does this keep users accountable for eating meals on time, but also creates a creative space for people to share their unique meals with one another.
 
-## Get started
+## How we built it
+We used React-Native Expo and Typescript.
 
-1. Install dependencies
+## Challenges we ran into
+It was difficult to implement taking photos through the app, as well as include all the features we intended due to the time constraint and lack of experience.
 
-   ```bash
-   npm install
-   ```
+## Accomplishments that we're proud of
+We're proud that we have a functional product that can complete the core goal of the app. Despite our limited expertise in React Native/Expo as well as programming in general, we're extremely proud of what we were able to learn and gain from this experience!
 
-2. Start the app
+## What we learned
+We learned how to program more efficiently and in a more organized way.
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## What's next for TasteBuds
+More features and functionality, such as implementing challenges among users to encourage more creativity and fun in eating, and a more detailed user flow to enhance the user experience!
